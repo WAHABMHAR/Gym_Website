@@ -57,7 +57,7 @@ const Home = () => {
     },
     {
       name: "CONTACT",
-      path: "#",
+      path: "#contact",
     },
   ];
   return (

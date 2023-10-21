@@ -29,6 +29,7 @@ const Contact = () => {
   return (
     <>
       <Box
+        id="contact"
         marginTop={40}
         marginBottom={20}
         width={"100%"}
